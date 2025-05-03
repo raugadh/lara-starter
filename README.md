@@ -5,4 +5,6 @@ pre-configured based on personal preference/requirements.
 
 ### Packages
 
-[Laravel](https://github.com/laravel/laravel) with [Livewire](https://github.com/livewire/livewire) Starter
+- [Laravel](https://github.com/laravel/laravel)
+- [Livewire](https://github.com/livewire/livewire)
+- [TallCraftUI ](https://github.com/developermithu/tallcraftui)
